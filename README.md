@@ -1,6 +1,6 @@
 # Point_clustering_kitti
 The code is written to visualize and cluster the point cloud provided by KITTI Benchmark (http://www.cvlibs.net/datasets/kitti/).
-![image]./dis.jpg
+![image]dis.jpg
 
 # How to use
 - downlaod the dataset on the KITTI(http://www.cvlibs.net/datasets/kitti/).
