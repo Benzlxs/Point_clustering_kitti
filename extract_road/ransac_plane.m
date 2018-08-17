@@ -51,7 +51,7 @@ while success == 0
         dist_plane   = [];
         in_pc = [];
         dist_pc2plane = [];
-        if len1> in_no
+        if len1 > in_no
             in_pc = pc(ind_1,1:3);
             [norm_plane  dist_plane]=Least_Square(in_pc) ;
             dist_pc2plane = pc(:,1:3)*norm_plane - dist_plane;   %calculate the distance of all point to plane
